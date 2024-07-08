@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirabacher
-- 👀 I’m interested in frontend and full stack software engineering. My favorite languages are Javascript, Python, Swift, and Java. 
-- 🌱 I’m currently learning Ruby. 
+- 👀 I’m interested in frontend and full stack development. I mainly code in Javascript (using React) but I have experience with Python, Java, C, Swift, and many others!
+- 🌱 I am currently improving my skills with React! I am also learning more about Creative Coding (mainly using p5.js) :-)
 - 📫 You can reach me at kirabacher16@gmail.com
 
 <!---
